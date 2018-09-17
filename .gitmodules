@@ -1,0 +1,3 @@
+[submodule "testrepo2"]
+	path = testrepo2
+	url = https://github.com/distorhead/testrepo2.git
